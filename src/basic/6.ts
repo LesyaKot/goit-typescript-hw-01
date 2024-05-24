@@ -28,5 +28,5 @@ const poly = {
 
 export {mango, poly};
 
-console.log(mango);
-console.log(poly);
+// console.log(mango);
+// console.log(poly);

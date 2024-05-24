@@ -4,4 +4,6 @@ person = ["Max", 21];
 
 export {person};
 
-console.log(person);
+
+
+// console.log(person);

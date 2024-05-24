@@ -18,4 +18,6 @@ const isWeekend = (day: DayOfWeek): boolean => {
 
 export { isWeekend };
 
-console.log(isWeekend(DayOfWeek.Saturday));
+
+
+// console.log(isWeekend(DayOfWeek.Saturday));

@@ -2,7 +2,7 @@ type Pages = {
   title: string;
   likes: number;
   accounts: string[];
-  status: string;
+  status: 'open' | 'close';
   details?: SomeExtraInfo;
 };
 
@@ -31,5 +31,6 @@ const page2: Pages = {
 
 export { page1, page2 };
 
- console.log( page1);
- console.log( page2);
+
+//  console.log( page1);
+//  console.log( page2);

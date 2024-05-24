@@ -6,7 +6,7 @@ unionType = "Victory";
 
 export { unionType };
 
-console.log(unionType);
+// console.log(unionType);
 
 
 // literal type
@@ -20,5 +20,5 @@ time = 10;
 
 export{time};
 
-console.log(`It's ${time} ! `);
+// console.log(`It's ${time} ! `);
 

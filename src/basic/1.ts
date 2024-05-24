@@ -9,8 +9,10 @@ const callback: (a: number) => number = (a) => {
 
 export { age, username, toggle, empty, callback };
 
-console.log( age);
-console.log( username);
-console.log( toggle);
-console.log( empty);
-console.log( callback(25));
+
+
+// console.log( age);
+// console.log( username);
+// console.log( toggle);
+// console.log( empty);
+// console.log( callback(25));

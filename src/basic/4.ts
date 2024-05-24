@@ -12,5 +12,5 @@ function customError(): undefined {
 
 export { showMessage, calc, customError };
 
-console.log(showMessage('Hello'));
-console.log(calc(25, 125));
+// console.log(showMessage('Hello'));
+// console.log(calc(25, 125));
